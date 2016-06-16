@@ -14,6 +14,8 @@
 		4B437F101D1244AD0057B846 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B437F0E1D1244AD0057B846 /* LaunchScreen.storyboard */; };
 		4B437F1B1D1244AD0057B846 /* ActivitiyDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B437F1A1D1244AD0057B846 /* ActivitiyDemoTests.swift */; };
 		4B437F261D1244AD0057B846 /* ActivitiyDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B437F251D1244AD0057B846 /* ActivitiyDemoUITests.swift */; };
+		4B437F341D1245790057B846 /* 曙光-白底.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B437F331D1245790057B846 /* 曙光-白底.png */; };
+		4B437F361D124CD40057B846 /* wx.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B437F351D124CD40057B846 /* wx.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		4B437F211D1244AD0057B846 /* ActivitiyDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ActivitiyDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B437F251D1244AD0057B846 /* ActivitiyDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivitiyDemoUITests.swift; sourceTree = "<group>"; };
 		4B437F271D1244AD0057B846 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B437F331D1245790057B846 /* 曙光-白底.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "曙光-白底.png"; sourceTree = "<group>"; };
+		4B437F351D124CD40057B846 /* wx.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wx.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +101,9 @@
 		4B437F041D1244AD0057B846 /* ActivitiyDemo */ = {
 			isa = PBXGroup;
 			children = (
+				4B437F351D124CD40057B846 /* wx.jpg */,
 				4B437F051D1244AD0057B846 /* AppDelegate.swift */,
+				4B437F331D1245790057B846 /* 曙光-白底.png */,
 				4B437F071D1244AD0057B846 /* ViewController.swift */,
 				4B437F091D1244AD0057B846 /* Main.storyboard */,
 				4B437F0C1D1244AD0057B846 /* Assets.xcassets */,
@@ -229,7 +235,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B437F361D124CD40057B846 /* wx.jpg in Resources */,
 				4B437F101D1244AD0057B846 /* LaunchScreen.storyboard in Resources */,
+				4B437F341D1245790057B846 /* 曙光-白底.png in Resources */,
 				4B437F0D1D1244AD0057B846 /* Assets.xcassets in Resources */,
 				4B437F0B1D1244AD0057B846 /* Main.storyboard in Resources */,
 			);
